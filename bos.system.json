@@ -1,0 +1,11 @@
+{
+  "slug": "dental",
+  "name": "Dental Clinic System",
+  "nameAr": "نظام عيادة الأسنان",
+  "description": "Patients, fillings, labs and billing for dental clinics.",
+  "descriptionAr": "إدارة المرضى والحشوات والتركيبات والمختبر وفواتير العيادات.",
+  "icon": "smile",
+  "category": "health",
+  "version": "1.0.0",
+  "discoverable": true
+}
