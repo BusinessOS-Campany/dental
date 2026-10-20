@@ -1,6 +1,0 @@
-0000000000000000000000000000000000000000 9b492394b440ca80d33b05f6d1f89dafb57dd130 GMSNOW <snows6005@gmail.com> 1789386866 +0300	commit (initial): Initial commit from Create Next App
-9b492394b440ca80d33b05f6d1f89dafb57dd130 a97a4ddbba3fecda5993f71542d78b1272292c42 GMSNOW <snows6005@gmail.com> 1789476497 +0300	commit: feat: full dental clinic app with auth, patients, billing, admin module
-a97a4ddbba3fecda5993f71542d78b1272292c42 0000000000000000000000000000000000000000 GMSNOW <snows6005@gmail.com> 1789476514 +0300	Branch: renamed refs/heads/master to refs/heads/main
-0000000000000000000000000000000000000000 a97a4ddbba3fecda5993f71542d78b1272292c42 GMSNOW <snows6005@gmail.com> 1789476514 +0300	Branch: renamed refs/heads/master to refs/heads/main
-a97a4ddbba3fecda5993f71542d78b1272292c42 0020608ca3bc9c65303cf457f35f034826b2c51c GMSNOW <snows6005@gmail.com> 1789608461 +0300	commit: feat: interactive 3D dental model with clickable per-tooth diagnosis
-0020608ca3bc9c65303cf457f35f034826b2c51c b560a27917474615584f0fab9b8d807e8d1f4224 GMSNOW <snows6005@gmail.com> 1789611409 +0300	commit: feat: responsive 2D dental chart that scales to phone screens
